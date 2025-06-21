@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Vikrant Mainwal<br>I'm a passionate Web Developer from Dehradun, Uttarakhand, currently pursuing B.Tech in Production and Industrial Engineering at MNNIT Allahabad.<br><br>🔧 I love building full-stack web applications using the MERN stack, and I’m always eager to explore new tools and technologies. From crafting sleek UI components to designing robust backend APIs, I enjoy turning ideas into real, usable products.
+<h3>👋 Hi there! I'm Vikrant Mainwal</h3><br>I'm a passionate Web Developer from Dehradun, Uttarakhand, currently pursuing B.Tech in Production and Industrial Engineering at MNNIT Allahabad.<br><br>🔧 I love building full-stack web applications using the MERN stack, and I’m always eager to explore new tools and technologies. From crafting sleek UI components to designing robust backend APIs, I enjoy turning ideas into real, usable products.
 
 
 ## 🌐 Socials:
